@@ -1,0 +1,43 @@
+============================================================
+MULTI-OBJECTIVE OPTIMIZATION SUMMARY
+AI-Driven Cement Manufacturing Optimization
+============================================================
+
+Pareto Front Size: 50 solutions
+
+OBJECTIVE RANGES:
+------------------------------------------------------------
+Cost           : [68.750, 117.363] (mean: 92.370, std: 14.077)
+Emissions      : [0.524, 0.665] (mean: 0.598, std: 0.037)
+Circularity    : [16.960, 43.319] (mean: 31.561, std: 7.717)
+Risk           : [0.055, 0.530] (mean: 0.123, std: 0.079)
+
+============================================================
+REPRESENTATIVE SOLUTIONS
+============================================================
+
+1. MINIMUM COST SOLUTION:
+   Cost:        $68.75/ton
+   Emissions:   0.600 kg CO₂/kg
+   Circularity: 36.7%
+   Risk:        0.228
+
+2. MINIMUM EMISSIONS SOLUTION:
+   Cost:        $76.35/ton
+   Emissions:   0.524 kg CO₂/kg
+   Circularity: 41.8%
+   Risk:        0.199
+
+3. MAXIMUM CIRCULARITY SOLUTION:
+   Cost:        $96.80/ton
+   Emissions:   0.596 kg CO₂/kg
+   Circularity: 43.3%
+   Risk:        0.530
+
+4. BALANCED SOLUTION (closest to center):
+   Cost:        $96.52/ton
+   Emissions:   0.585 kg CO₂/kg
+   Circularity: 33.6%
+   Risk:        0.109
+
+============================================================
